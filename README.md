@@ -1,17 +1,17 @@
 # Module-11-Challenge-
-##data_collection_challenge
-##Module 11 - Data Collection Challenge
+## data_collection_challenge
+## Module 11 - Data Collection Challenge
 
-##Full web-scraping and data analysis project, using Splinter and Beautiful Soup.
+## Full web-scraping and data analysis project, using Splinter and Beautiful Soup.
 
-##Deliverable 1:
+## Deliverable 1:
 Scrape titles and previw text from Mars News.
 
 Chrome DevTools used to inspect the page for the correct elements to scrape.
 
 Titles and Preview text saved to a JSON file called 'articles.json'.
 
-##Deliverable 2:
+## Deliverable 2:
 Scrape and Analyse Mars Weather Data.
 
 Automated browsing used to inspect the page for elements using Chrome DevTools.
@@ -24,5 +24,5 @@ stackoverflow referenced for use of index in part 2. all other information for c
 
 datafile saved to csv called 'Mars_data.csv'
 
-#References
+# References
 The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
